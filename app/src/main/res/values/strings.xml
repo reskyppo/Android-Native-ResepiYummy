@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Resepi yummy</string>
+    <string name="resep_name">Nama Makanan</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="about_me">About me</string>
+    <string name="nama_diri">Resky Budi Nugroho</string>
+    <string name="tes_toolbar">About Me</string>
+    <string name="email">Skun169@gmail.com</string>
+    <string name="inspired">UI Inspired by JayDoesCode Youtube</string>
+    <string name="pilih">Pilih</string>
+    <string name="judul">Judul</string>
+    <string name="bahan_bahan">Bahan-Bahan :</string>
+    <string name="berikut_ini_adalah_cara_membuatnya">Berikut ini adalah cara membuatnya</string>
+    <string name="detail_bahan">Detail bahan</string>
+    <string name="langkah">Langkah-langkah :</string>
+    <string name="detail_langkah">Detail langkah</string>
+</resources>
